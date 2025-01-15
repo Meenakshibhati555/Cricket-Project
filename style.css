@@ -1,0 +1,23 @@
+.game{
+  text-align: center;
+}
+button{
+  background: rgb(164 212 130);
+  border-radius: 10px;
+  border: none !important;
+  margin: 10px;
+  cursor: pointer;
+}
+.choice-btn{
+  width: 75px;
+}
+
+.reset-btn{
+  border: 1px solid !important;
+  background: lightgrey;
+  padding: 5px;
+  font-size: 14px;
+  font-weight: 600;
+  width: 90px;
+  border-radius: 5px;
+}
